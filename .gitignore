@@ -1,0 +1,23 @@
+# Cypress generated files
+/cypress/videos/
+/cypress/screenshots/
+
+# Cypress logs
+/cypress/logs/
+
+# Node modules
+/node_modules/
+
+# Environment variables
+.env
+
+# Compiled JavaScript
+/dist/
+
+# Editor specific files
+.idea/
+.vscode/
+
+# Cache and build files
+.cache/
+build/
