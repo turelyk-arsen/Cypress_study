@@ -21,3 +21,5 @@
 # Cache and build files
 .cache/
 build/
+
+reports/
